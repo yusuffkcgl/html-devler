@@ -1,2 +1,2 @@
 <!-- buraya patika ekleyecegiz   -->    
-[patika](www.patika.dev)
+[patika](https://www.patika.dev/tr)
